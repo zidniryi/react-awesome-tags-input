@@ -30,7 +30,7 @@ Here's a sample implementation
 
 
 ```javascript
-import { TagInput } from "./lib";
+import { TagInput } from "react-awesome-tags-input";
 import { useState } from "react";
 
 function App() {
