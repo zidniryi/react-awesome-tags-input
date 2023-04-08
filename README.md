@@ -3,7 +3,7 @@
 
 react-awesome-tags-input is a library for text that is small and easy to customize
 ## Features
-- custom styles
+- customize styles
 - small size
 - easy to use
 
@@ -52,6 +52,8 @@ function App() {
 export default App;
  ```
 
+## Result
+![enter image description here](https://i.ibb.co/SR2Y16G/Screen-Shot-2023-04-09-at-01-20-20.png)
 
 <a name="Options"></a>
 ## Options
