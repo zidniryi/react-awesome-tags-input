@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-tags-input",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
