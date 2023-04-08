@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-tags-input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -18,6 +18,8 @@
     "react",
     "customize tag input"
   ],
+  "description": "react-awesome-tags-input is a library for text that is small and easy to customize",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
